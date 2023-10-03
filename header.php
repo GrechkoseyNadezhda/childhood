@@ -54,19 +54,19 @@
                 <nav class="row" data-slide="1">
                     <ul class="header__nav">
                         <li>
-                            <a class="header__nav-item" href="#about">Про компанию</a>
+                            <a class="header__nav-item" href="#about">About company</a>
                         </li>
                         <li>
-                            <a class="header__nav-item" href="#specialists">Наша команда</a>
+                            <a class="header__nav-item" href="#specialists">Our team</a>
                         </li>
                         <li>
-                            <a class="header__nav-item" href="#toys">Игрушки</a>
+                            <a class="header__nav-item" href="#toys">Toys</a>
                         </li>
                         <li>
-                            <a class="header__nav-item" href="#aboutus">Наша история</a>
+                            <a class="header__nav-item" href="#aboutus">Our history</a>
                         </li>
                         <li>
-                            <a class="header__nav-item" href="#contacts">Контакты и отзывы</a>
+                            <a class="header__nav-item" href="#contacts">Contacts and feedbacks</a>
                         </li>
                     </ul>
                 </nav>
