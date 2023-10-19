@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: History
+Template Name: Our history
 */
 ?>
 <?php

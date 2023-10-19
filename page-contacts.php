@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Contacts
+Template Name: Contacts and feedbacks
 */
 ?>
 <?php
