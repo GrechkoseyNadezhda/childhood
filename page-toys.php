@@ -31,7 +31,7 @@ Template Name: Toys
                         <div class="toys__item-descr">
                             <?php the_field('toys_descr') ?>                          
                         </div>
-                        <div class="minibutton toys__trigger">Read more</div>
+                        <a href="<?php echo get_permalink(); ?>" class="minibutton toys__trigger">Read more</a>
                     </div>
                 </div>
             <?php
@@ -66,7 +66,7 @@ Template Name: Toys
                         <div class="toys__item-descr">
                             <?php the_field('toys_descr') ?>
                         </div>
-                        <div class="minibutton toys__trigger">Read more</div>
+                        <a href="<?php echo get_permalink(); ?>" class="minibutton toys__trigger">Read more</a>
                     </div>
                 </div>
             <?php
